@@ -12,6 +12,8 @@ vit-pytorch 1.6.4 <br/>
 
 git clone https://github.com/AarohiSingla/Image-Classification-Using-Vision-transformer
 
+unzip dataset.zip for sample dataset prior run "test_train_using_pretrained_model_image_classifier.ipynb" <br/>
+
 Follow the video to understand the code: https://youtu.be/awyWND506NY
 
 ![v](https://github.com/AarohiSingla/Image-Classification-Using-Vision-transformer/assets/60029146/5e25d95a-bba8-4066-9304-d29185122c47)
